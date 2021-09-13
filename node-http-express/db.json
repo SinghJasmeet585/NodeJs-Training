@@ -1,0 +1,46 @@
+{
+  "contacts": [
+    {
+      "name": "Ravi",
+      "email": "ravi@gmail.com",
+      "phone": "37891893218",
+      "address": {
+        "city": "Chennai"
+      },
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "Aditya Raven",
+      "email": "araven@gmail.com",
+      "phone": "239029342",
+      "address": {
+        "city": "Delhi"
+      }
+    },
+    {
+      "name": "Kamal Pandey",
+      "email": "kp@gmail.com",
+      "phone": "34823489248923",
+      "address": {
+        "city": "Pune"
+      },
+      "id": 3
+    },
+    {
+      "name": "Raj",
+      "email": "raj@gmail.com",
+      "phone": "29839283",
+      "address": {
+        "city": "Goa"
+      },
+      "id": 4
+    }
+  ],
+  "users": [
+    {
+      "username": "rajk",
+      "age": 23
+    }
+  ]
+}
